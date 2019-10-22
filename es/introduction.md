@@ -24,9 +24,9 @@
     - Realice cálculos reactivos sobre la marcha para casi cualquier elemento o parámetro en cualquier lugar
     - Escriba funciones JS completas a las que se pueda llamar desde cualquier acción
 - Diferentes modales de resumen y acciones de alerta que permiten interactuar con el usuario
-- Place layouts within modal card windows
-- Multiple payment gateways for monetizing your app
-- Hooks scripts run local to the existing developers app keeping all business logic together.
+- Colocar presentaciones ( layouts) dentro de ventanas modales
+- Múltiples pasarelas de pago para monetizar su aplicación
+- Los guiones/scripts con hooks se ejecutan en la solución de Filemaker de manera que se mantiene toda la lógica de negocio centralizada.
 - **Actualice y revierta su código base de aplicaciones sin problemas**
     - Aplicación SAAS alojada en la nube
     - Sólo hay que instalar un sólo archivo/ helper en Filemaker server donde se aloja la solución ( datos y lógica de negocio)
