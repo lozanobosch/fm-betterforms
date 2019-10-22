@@ -4,8 +4,8 @@
 
 ## Características
 
-- **Interfaz de usuario 100% responsive**
-    - permitiendo UX de escritorio, tableta y teléfono compatible
+- **Interfaz de usuario totalmente responsive**
+    - permitiendo crear interfaces que se adaptan al escritorio y dispositivos móviles ( tabletas y teléfonos)
 - **Sistema de autenticación multimodo**
     - Autenticar a través de hash de URL,
     - Autenticación con nombre de usuario (email) y contraseña
