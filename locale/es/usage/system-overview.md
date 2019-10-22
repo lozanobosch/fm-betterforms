@@ -1,9 +1,9 @@
 # Resumen del sistema
 
-## Production Deployment Overview
+## Descripción general del despliegue a producción
 
 ## Estado del sistema y monitor de rendimiento
 
-The health monitoring of FM BetterForms Cloud deployment can be checked but visiting [https://bfstatus.delfsengineering.ca](https://bfstatus.delfsengineering.ca)
+La supervisión del estado de la implementación de FM BetterForms Cloud se puede verificar en este enlace: [https://bfstatus.delfsengineering.ca](https://bfstatus.delfsengineering.ca)
 
 ![](../../../.gitbook/assets/bf-overview.png)
